@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <div className="content">
-        <h1> {tittle}</h1>
+        <h1> {tittle} </h1>
         <p>Liked {likes} times</p>
         <p>Number array variable: {numbers} </p>
         <p>{10} direct number</p>
